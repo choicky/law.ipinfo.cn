@@ -1,8 +1,6 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: 总览 -->
+<!-- SUBTITLE: 法律法规导航 -->
 
-# Header
+### Z开头的
 
-this is a [link](link).
-
-this is a [链接](链接).
+[专利法](/z/专利)
